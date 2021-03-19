@@ -7,7 +7,7 @@ import Spinings from './components/Spinings';
 import Grunts from './components/Grunts';
 import Pludins from './components/Pludins';
 import Navigation from './components/Navigation';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
  
 class App extends Component {
   render() {
